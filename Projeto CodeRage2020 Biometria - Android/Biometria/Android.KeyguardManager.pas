@@ -5,7 +5,7 @@
 {                                                                               }
 {###############################################################################}
 {    Developer.: Gabriel de Oliveira silva  - gabriel.o.s@hotmail.com           }
-{    Developer.: Gabriel de Souza Lopes     - gabslopes34@hotmail.com           }
+{    Developer.: Gabriel de Souza Lopes     - gabslopes34@gmail.com             }
 {###############################################################################}
 
 unit Android.KeyguardManager;
